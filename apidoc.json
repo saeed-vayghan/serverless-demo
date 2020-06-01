@@ -1,0 +1,11 @@
+{
+  "name": "Serverless Demo",
+  "version": "1.0.0",
+  "description": "Serverless API Documentaion",
+  "title": "Serverless-Demo API Documentaion",
+  "url" : "",
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}

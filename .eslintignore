@@ -1,0 +1,5 @@
+.serverless
+.eslintrc.js
+
+docs
+node_modules
