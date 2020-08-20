@@ -17,7 +17,7 @@
   * [x] Query sanitizer
   * [x] package.json
   * [x] npm-shrinkwrap.json
-  * [x] Esling
+  * [x] Eslint
   * [x] Naming-Tagging (Asset-Inventory)
   * [x] Env Variables
   * [x] Documentaion
